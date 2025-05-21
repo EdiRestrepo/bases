@@ -36,7 +36,7 @@
     console.log(largoDelPoder); // 3
     console.log(largoDelPoder2); // 3
     console.log(largoDelPoder3); // 3
-    let vacio = undefined;
+    // let vacio: null = undefined
     let enumeracion;
     (function (enumeracion) {
         enumeracion[enumeracion["a"] = 10] = "a";

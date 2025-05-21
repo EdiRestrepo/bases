@@ -44,7 +44,7 @@
   console.log(largoDelPoder2); // 3
   console.log(largoDelPoder3);  // 3
 
-  let vacio: null = undefined
+  // let vacio: null = undefined
 
   enum enumeracion {
     a = 10,
